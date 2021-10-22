@@ -5,7 +5,7 @@ const firebaseConfig = {https://dragon-tkn.firebaseapp.com/__/auth/handler}
   //...
 };
 
-const app = initializeApp(https://dragon-tkn.firebaseapp.com/__/auth/handler);
+const app = initializeApp(https://github.com/WhiteFeather27/Dragon-Forge);
 
 
 
